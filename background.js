@@ -4,8 +4,6 @@ var setIcon = function() {
   canvas.height = 38;
 
   var context = canvas.getContext('2d');
-  context.fillStyle = "#FFFFFF";
-  context.fillRect(0, 0, 38, 38);
 
   context.fillStyle = "#000000";
   context.textAlign = "center";
