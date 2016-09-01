@@ -15,4 +15,4 @@
 Автор: Виктор Соколов <gzigzigzeo@evilmartians.com>
 Иконка: Роман Шамин <roma@evilmartians.com>
 
-![С приветом из Сванетии](hi.png)
+![С приветом из Сванетии](hi.jpg)
